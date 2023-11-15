@@ -1,4 +1,4 @@
-# Day 1: Find the Missing Number
+# Day 1: Find the Missing Number - November 14, 2023
 
 ## Problem Overview
 The challenge is to identify a missing number in an array. This array consists of `n` distinct numbers from a specific range, but one number within this range is absent. The problem was tackled for two different scenarios:
