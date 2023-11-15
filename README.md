@@ -18,8 +18,8 @@ Welcome to my coding study history repository! This space is dedicated to docume
 - **Knowledge Sharing:** To share insights and solutions with others.
 
 ## Navigation
-- [Day 1: Find the Missing Number](/day1/README.md) - [Problem Statement](/day1/problem.md)
-- [Day 2](/day2/README.md) - [Problem Statement](/day2/problem.md) *(Links to be updated as I progress)*
+- [Day 1: Find the Missing Number](/Day1/README.md) - [Problem Statement](/Day1/problem.md)
+- [Day 2](/Day2/README.md) - [Problem Statement](/Day2/problem.md) *(Links to be updated as I progress)*
 - ... *(and so on)*
 
 ## Technologies Used
